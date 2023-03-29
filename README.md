@@ -1,3 +1,6 @@
+![imagemras](imgs/IEEERASUFCG.jpg)
+
+
 <h3 align="center">Welcome to my profile!</h3>   
 <div align="center">
   <a href="https://github.com/brenopmeneses">
